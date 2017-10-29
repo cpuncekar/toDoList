@@ -1,0 +1,29 @@
+li {
+	border: 2px solid red;
+}
+
+#special{
+	background: yellow;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+
+
+
+
+/*Element */
+/*Class*/
+/*id*/
+
+
+/*Star - * Applies to every single element*/
+
+/*Descendant Selector - two or more tag names*/
+
+/*Adjacent Selector - h4 + ul */
+
+/*Attribute Selector -links, images or inputs a[href]*/
+
+/*nth of type -*/
